@@ -1,0 +1,7 @@
+streamlit
+google-cloud-texttospeech
+google-cloud-storage
+google-cloud-aiplatform
+httpx
+beautifulsoup4
+python-dotenv
